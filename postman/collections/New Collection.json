@@ -1,0 +1,10 @@
+{
+	"info": {
+		"_postman_id": "3b7cd6ec-262c-4ea8-b944-0610e0645953",
+		"name": "New Collection",
+		"description": "search and filter photos or videos",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "26392228-3b7cd6ec-262c-4ea8-b944-0610e0645953"
+	},
+	"item": []
+}
